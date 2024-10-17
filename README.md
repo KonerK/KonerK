@@ -1,6 +1,4 @@
 ## Hi there, I'm Koner!
-
-## Who am I?
 🎓 I am a recent Computer Science graduate from the University of Bath, and primarily work with Python. I am highly fascinated by machine learning, data science, human-computer interaction (HCI), and the mathematical foundations of computer science.
 
 If you would like to explore some projects I have undertaken, feel free to check out the following:
