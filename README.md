@@ -1,5 +1,4 @@
 ## Hi there, I'm Koner!
-![wall_paper_of_books](https://github.com/user-attachments/assets/b5321308-1397-47f4-bf53-b0bc54652a3d)
 
 ## Who am I?
 🎓 I am a recent Computer Science graduate from the University of Bath, and primarily work with Python. I am highly fascinated by machine learning, data science, human-computer interaction (HCI), and the mathematical foundations of computer science.
