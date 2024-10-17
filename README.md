@@ -1,4 +1,4 @@
-## Hey there, I'm Koner!
+## Hi there, I'm Koner!
 ![wall_paper_of_books](https://github.com/user-attachments/assets/b5321308-1397-47f4-bf53-b0bc54652a3d)
 
 ## Who am I?
