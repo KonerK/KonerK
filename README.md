@@ -1,5 +1,4 @@
 ## Hi there, I'm Koner!
-![bookcases](https://github.com/user-attachments/assets/d4971a58-4587-455f-b9f8-bdf88f3ce3cd)
 
 🎓 I'm a recent Computer Science graduate from the University of Bath, and primarily work with Python. I am highly fascinated by machine learning, data science, human-computer interaction (HCI), and the mathematical foundations of computer science.
 
