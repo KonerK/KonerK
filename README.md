@@ -7,9 +7,10 @@ If you would like to explore some of my projects, feel free to check out the fol
 - [Sentiment Analysis of IMDb Reviews][2]: An exploration of sentiment analysis using different classification models (Naive Bayes, Logistic Regression, SVMs).
 
 
-📚 If you're similarly interested in self-studying computer science and mathematics, check out the following repositories where I track my learning in these fields and wonder knowledge should be expected of any Computer Scientist: [Open-CS-Degree][3].
+
 
 [1]:https://github.com/KonerK/Affective-Virtual-Environments
 [2]:https://github.com/KonerK/Sentiment-Analysis
 [3]:https://github.com/KonerK/Computer-Science-Open-Degree
 [4]:https://github.com/KonerK/Mathematics-Open-Degree
+[comment]: <> (📚 If you're similarly interested in self-studying computer science and mathematics, check out the following repositories where I track my learning in these fields and wonder knowledge should be expected of any Computer Scientist:)
