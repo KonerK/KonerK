@@ -3,7 +3,7 @@
 🎓 I'm a Computer Science graduate from the University of Bath, and primarily work with Python. I am highly interested in machine learning, data science, human-computer interaction (HCI), and the mathematical foundations of computer science.
 
 If you would like to explore some of my projects, feel free to check out the following:
-- [Affective VR][1]: Detailing the Development and Design of Four Affective Virtual Environments in VR.
+- [Affective VR][1]: Detailing the Design and Development of Four Affective Virtual Environments in VR.
 - [Sentiment Analysis of IMDb Reviews][2]: Exploring the Effectiveness of Different Classification Models (Naive Bayes, Logistic Regression, SVMs) on a Sentiment Analysis Task.
 
 
