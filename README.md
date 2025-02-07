@@ -1,6 +1,6 @@
 ## Hi there, I'm Koner!
 
-🎓 I'm a Computer Science graduate from the University of Bath, and primarily work with Python. I am highly interested in machine learning, data science, human-computer interaction (HCI), and the mathematical foundations of computer science.
+🎓 I'm a Computer Science graduate from the University of Bath.
 
 If you would like to explore some of my projects, feel free to check out the following:
 - [Affective VR][1]: Detailing the Design and Development of Four Affective Virtual Environments in VR.
